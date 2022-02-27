@@ -1,0 +1,673 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great duty of communicating explain'd and enforc'd, the objections against it answer'd, and the necessary preparation for it stated With devotions to be us'd before, at, and after the Lord's Supper. By the author of The duties of the closet.</title>
+            <author>Dawes, William, Sir, 1671-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82006</idno>
+            <idno type="STC">Wing D455B</idno>
+            <idno type="STC">ESTC R229669</idno>
+            <idno type="EEBO-CITATION">99895488</idno>
+            <idno type="PROQUEST">99895488</idno>
+            <idno type="VID">152927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82006)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2334:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great duty of communicating explain'd and enforc'd, the objections against it answer'd, and the necessary preparation for it stated With devotions to be us'd before, at, and after the Lord's Supper. By the author of The duties of the closet.</title>
+                  <author>Dawes, William, Sir, 1671-1724.</author>
+               </titleStmt>
+               <extent>46, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Speed, over against Jonathan's coffee-house, in Exchange Alley, Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Below imprint: Price 3d. but 20s. a hundred to those who give them away.</note>
+                  <note>Author of The duties of the closet = Sir William Dawes.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Sermons --  Early works to 1800.</term>
+               <term>Last Supper --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152927:1" rendition="simple:additions"/>
+            <p>THE GREAT <hi rend="blackletterType">Duty of Communicating</hi> EXPLAIN'D and ENFORC'D, THE Objections againſt it Anſwer'd, AND THE Neceſſary Preparation for it Stated. WITH DEVOTIONS To be Us'd Before, At, and After THE Lord's Supper.</p>
+            <p>By the Author of <hi>The Duties of the Cloſet.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Speed,</hi> over againſt <hi>Jonathan</hi>'s Coffee-houſe, in <hi>Exchange-alley, Cornhil,</hi> 1700.</p>
+            <p>Price 3 <hi>d.</hi> but 20 <hi>s.</hi> a hundred to thoſe who give them away.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152927:2" rendition="simple:additions"/>
+            <pb facs="tcp:152927:2"/>
+            <head>TO HIS PARISHIONERS.</head>
+            <opener>
+               <salute>Dear Neighbours,</salute>
+            </opener>
+            <p>IT being my deſign to ſettle a monthly Sacrament amongſt you, beginning from <hi>Eaſter-day</hi> now at hand: I cannot ſatisfy my ſelf, without endeavouring, by all ways in my power, to diſpoſe and prepare you for a conſtant attendance at it. For which end I ſend you this little plain Book, which contains the ſum of all that is neceſſary for you to know, and all that I have already Preached to you on this Subject. And I moſt earneſtly beſeech, in<g ref="char:EOLhyphen"/>treat and require you, (as you will anſwer it <hi>at the Great Day,</hi> when men muſt give a ſtrict and ſe<g ref="char:EOLhyphen"/>vere account how they have us'd thoſe means and opportunities of being acquaint<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with their Duty which have been offer'd to them, eſpecially by the hands of their <hi>Spiritual Teachers and Paſtors</hi>) to peruſe and conſider it, with the ſame ſeriouſneſs and concern for your Souls, with which, I call God to witneſs, it was written. And, if it ſhould not reach all your Scruples, and anſwer all your Difficulties, I beg of you that you will let me know wherein you ſhall remain unſatisfied, that ſo I may give you ſuch farther Helps and Directions, as ſhall appear to be needful. This, as it will ſhow your ſincerity
+<pb facs="tcp:152927:3"/> and honeſt deſire of coming to the knowledge of the Truth, <hi>as it is in Chriſt Jeſus,</hi> ſo will it like<g ref="char:EOLhyphen"/>wiſe be the ſhorteſt and ſureſt way of your coming at it; it being impoſſible, by Writing or Preaching, to give the ſame exact and ſpeedy reſolutions to the doubts and difficulties of particular Perſons, as by verbal conferences; wherein they have the ſatisfa<g ref="char:EOLhyphen"/>ction of puting their Caſe, and hearing it anſwered in their own way. May it pleaſe God, <hi>of his Great Goodneſs,</hi> ſo to excite, direct and bleſs your Endeavours, in this, as well as in all Reli<g ref="char:EOLhyphen"/>gious Matters, that you may <hi>adorn the Do<g ref="char:EOLhyphen"/>ctrine of God our Saviour in all things,</hi> and by ſo doing, <hi>Glorify God, make your calling and election ſure;</hi> and <hi>fulfil the joy of</hi>
+            </p>
+            <closer>
+               <signed>Your moſt Faithful, and moſt Loving Paſtor.</signed>
+               <dateline>
+                  <date>Feb. the 20th, 1699.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:152927:3"/>
+            <head>THE GREAT DUTY OF Communicating, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Of the Nature, End and Deſign of the Lords Supper, the benefits which Chriſtians are made partakers of by receiving it, and the obligations which they lie under to receive it.</hi>
+               </head>
+               <p>IN order to a full and clear underſtanding of the Nature of the <hi>Lord's Supper,</hi> we ſhall do well ſe<g ref="char:EOLhyphen"/>riouſly and particularly to conſider the Account which the Scriptures give us, of our bleſſed Ma<g ref="char:EOLhyphen"/>ſters Inſtitution of it. And this, by comparing together, <hi>Matt.</hi> 26. <hi>Mark</hi> 14. <hi>Luke</hi> 22. 1 <hi>Corinth.</hi> 11. we ſhall find, in ſhort, to be this.</p>
+               <p>Our Bleſſed Saviour, when he was eating the Paſſo<g ref="char:EOLhyphen"/>ver with his twelve <hi>Apoſtles,</hi> the evening before his Paſſion, <hi>took Bread, and gave thanks or bleſſed it, and brake it, and gave it to them ſaying, Take, eat, This is my Body which is given for you. This do in remembrance of me. Likewiſe alſo the Cup after Supper, and when he had given thanks, he gave it to them, and they all drank of it. And he ſaid unto them, This is my Blood of the New Teſtament (or the new Teſtament in my Blood) which
+<pb n="6" facs="tcp:152927:4"/> is ſhed for you and for many: This do in remembrance of me.</hi>
+               </p>
+               <p>For the better explaining of which words, and aſ<g ref="char:EOLhyphen"/>certaining the extent of their Obligation we will di<g ref="char:EOLhyphen"/>ſtinctly conſider theſe three things.
+<list>
+                     <item>Firſt, <hi>What it is that is here commanded to be done, Do this.</hi>
+                     </item>
+                     <item>Secondly, <hi>Who the Perſons are that are concern'd to Do this.</hi>
+                     </item>
+                     <item>Thirdly, <hi>The end for which it is to be done, in remem<g ref="char:EOLhyphen"/>brance of me.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Firſt, <hi>What it is that is here commanded to be done;</hi> and this can be nothing elſe than what our Saviour and his Apoſtles had been juſt then doing, <hi>viz. taking Bread, and bleſſing and breaking it, and likewiſe taking Wine and giving thanks, and partaking of and diſtributing both.</hi> To this; and every part of this action muſt the words <hi>do this</hi> neceſſarily refer; becauſe they immediately follow the doing of all this, and no part of this is excepted in our Saviours command. Thoſe who are to provide and diſtribute, are to provide and diſtribute both Bread and Wine, for ſo had our Lord done; and thoſe, who are to receive, are to receive both Bread and Wine; for ſo had the Apoſtles received. And therefore the Church of <hi>Rome</hi> is inexcuſable, which, directly con<g ref="char:EOLhyphen"/>trary to our Lords Inſtitution, gives the Bread only to ſome <hi>Receivers</hi> without the Wine.</p>
+               <p>Secondly, <hi>Who the Perſons are that are concerned to do this;</hi> and they are all Chriſtians whatſoever. By which I mean.</p>
+               <p>Firſt, All Succeſſions and Generations of Chriſtians that ſhall be in the World, as long as it ſhall laſt. For they being all equally concerned in the benefits of our Saviour's Death and Paſſion, muſt according to reaſon be ſuppoſed to be equally obliged to keep up this <hi>Holy Supper</hi> in commemoration of them. So that if we had had no Direction about this matter in Scripture, the reaſon of the thing it ſelf muſt then have taken place, and that would have made this Supper perpetual.
+<pb n="7" facs="tcp:152927:4"/> But the Scriptures have not been ſilent in this point, but have plainly told us, that we are thus to <hi>ſhew the Lords Death, till he come:</hi> That is, till his ſecond com<g ref="char:EOLhyphen"/>ing to judge the World.</p>
+               <p>Secondly, All ſorts of Chriſtians, the <hi>Laity or People</hi> as well as the <hi>Clergy or Miniſters of the Goſpel.</hi> For tho it is pretended by ſome, that becauſe our Lord gave the Bread and Wine only to the Apoſtles who were all <hi>Mi<g ref="char:EOLhyphen"/>niſters,</hi> and not any one Lay Diſciple, therefore he deſign'd this <hi>Supper</hi> only for the Miniſters of the Goſ<g ref="char:EOLhyphen"/>ſpel, but not at all for the People; yet I think the con<g ref="char:EOLhyphen"/>trary may very plainly be proved, both from reaſon and Scripture. From reaſon, both becauſe it appears moſt probable that the Apoſtles, in the Inſtitution of this Sup<g ref="char:EOLhyphen"/>per, were the repreſentatives of the people, and not of the Miniſters, who were then much better repre<g ref="char:EOLhyphen"/>ſented by our <hi>Great High Prieſt Chriſt Jeſus,</hi> and whoſe Office it is plain he then alone executed; and like<g ref="char:EOLhyphen"/>wiſe becauſe it is certain, that the people, who are as much partakers of the benefits of Chriſt's death as the Miniſters, have as great reaſon to commemorate 'em as they. From Scripture, both becauſe it is evident from thence, that the Apoſtles conſtantly admini<g ref="char:EOLhyphen"/>ſtred this Supper to the people, (as to give one In<g ref="char:EOLhyphen"/>ſtance for all, we read <hi>Acts</hi> 2.42. where we have no leſs than three thouſand Lay Converts at once re<g ref="char:EOLhyphen"/>ceiving this <hi>Supper</hi>) and likewiſe, becauſe we there find St. <hi>Paul</hi> ſpending great part of a Chapter in urg<g ref="char:EOLhyphen"/>ing and directing the Lay <hi>Corinthians</hi> how they ought to receive. 1 <hi>Cor.</hi> 11.</p>
+               <p>'Tis true indeed, that the part which our Lord had in the inſtitution of his Holy Supper, viz. <hi>The bleſſing of Bread, and breaking it, and taking Wine, and giving thanks, and diſtributing both,</hi> belongs only to the Miniſter of the Goſpel; becauſe theſe are all ſpecial Acts and Exerciſes of the Miniſterial Function, and as ſuch, have been always reſerved to them alone. But the receiving of the Bread and Wine, whe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>broken, bleſſed</hi> and <hi>offered</hi> to us, is the common dut<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of all Chriſtians, as well people as Miniſters.</p>
+               <pb n="8" facs="tcp:152927:5"/>
+               <p>Thirdly, <hi>The end for which this is commanded to be done, in remembrance of me,</hi> or rather in commemoration of me: For ſo the word, which we here tranſlate re<g ref="char:EOLhyphen"/>membrance, ſometimes ſignifieth; and this indeed, ſeems to be the moſt proper ſignification of it in this place. For <hi>commemoration</hi> is a ſolemn act of remem<g ref="char:EOLhyphen"/>brance, and ſuch an one, no doubt, our Saviour here expects from us. We are always bound habitually to remember him, but this his <hi>Supper</hi> is particularly deſign'd to excite in our Souls a preſent and actual remembrance of him; of him? that is, of his death and Paſſion, of his Body that was broken, and his Blood which was ſhed for us. For the Bread and Wine, which are here adminiſtred to us, were ap<g ref="char:EOLhyphen"/>pointed by him as ſigns and repreſentations of his Fleſh and Blood, as he himſelf tells us, at his Inſti<g ref="char:EOLhyphen"/>tution of this Holy Supper. <hi>This,</hi> ſaith he, ſpeaking of the Bread, <hi>is my Body which is given for you;</hi> that is, this is a ſign or repreſentation of my Body, which ſhall very ſuddenly be offer'd up upon the Croſs for you; and again, ſpeaking of the Cup, <hi>This is my Blood of the New Teſtament, or the new Teſtament in my Blood, which is ſhed for you and for many;</hi> as if he had ſaid, the Wine which you now ſee in this Cup, and which I commanded ye all to drink of, is a ſign or repre<g ref="char:EOLhyphen"/>ſentation of my Blood, which will be ſhortly ſhed to ratify or confirm the New Covenant, which I have made between God and Man.</p>
+               <p>When therefore we eat of this Bread, and drink of this Cup, we muſt be ſure to put both parts of our Lord's Commandment together, and to fulfil both; by doing it in remembrance of his Body that was given, and his Blood that was ſhed for us. And ſuch a remembrance as this neceſſarily implies theſe two things.</p>
+               <p>Firſt, An acknowledgement of Chriſt for our Sa<g ref="char:EOLhyphen"/>viour and Redeemer. For what elſe is it to comme<g ref="char:EOLhyphen"/>morate his dying for us, but to declare that we are ſenſible, that our <hi>peace is made</hi> with God, <hi>through the blood of his Croſs,</hi> and that we, who before <hi>were all under ſin and lyable to wrath, aliens from, and Enemies to
+<pb n="9" facs="tcp:152927:5"/> God,</hi> ſhall now <hi>not have our treſpaſſes imputed to us, but be ſaved from wrath through Chriſt, and in the body of his fleſh through death be reconciled</hi> unto God. To declare, I ſay, and <hi>ſhew</hi> both to God and Man, that our hope is only in the Lord Jeſus, <hi>who hath now appeared to put away ſin by the Sacrifice of himſelf,</hi> and <hi>in whom</hi> alone <hi>we have redemption through his blood, even forgiveneſs of ſins.</hi> This you ſee is what the Scripture means by Chriſt's Body being broken, and his Blood ſhed for us, and therefore all Chriſtians who ſincerely remember thoſe, muſt ſincerely acknowledge this.</p>
+               <p>Secondly, An acknowledgement of Chriſt for our Lord and Maſter; For, beſides that, by ſubmitting to his Rites and Inſtitutions, we plainly declare our ſelves his Diſciples: beſides, that by acknowledging of, and partaking in his Sacrifice, we do, according to the ſenſe of all Nations, own our ſelves members of his Church; beſides this, I ſay, by acknowledging Chriſt's dying for us, we do manifeſtly acknowledge our obligations both to love and obey him: To love him, who hath ſo loved us, as to <hi>lay down his life for us;</hi> to obey him, whoſe <hi>purchaſe</hi> we are, who hath <hi>bought us with a price,</hi> even the ineſtimable price of his <hi>Blood,</hi> and has therefore a right to us, as the Scrip<g ref="char:EOLhyphen"/>ture tells us, as a <hi>peculiar people to himſelf.</hi> And this the Primitive Chriſtians were ſo ſenſible of, that they look'd upon every receiving of the Lords Supper to be a new tie and obligation, a new vow and dedica<g ref="char:EOLhyphen"/>tion of themſelves to Chriſt. And hence it was that the word <hi>Sacrament,</hi> which ſignified among the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> that Oath of Fidelity which their Soldiers took, was given as a name to the Lords Supper, becauſe Chriſtians were ſuppos'd to bind themſelves there, as it were by an Oath, to Chriſt's Service.</p>
+               <p>The ends for which our bleſſed Lord inſtituted this holy Supper ſeem to have been theſe three.</p>
+               <p>Firſt, <hi>His Father's and his own Glory,</hi> which could no way better be illuſtrated and extoll'd, than by making all Chriſtians whatſoever join in aſcribing their Re<g ref="char:EOLhyphen"/>demption and Salvation to them. For this is at once to own both their power, and wiſdom, and goodneſs,
+<pb n="10" facs="tcp:152927:6"/> which were ſo eminently diſplay'd in theſe great works; and likewiſe their Soveraignty and Domini<g ref="char:EOLhyphen"/>on over us, which are the natural effects of them.</p>
+               <p>Secondly, <hi>The preſerving the unity of his Church,</hi> to<g ref="char:EOLhyphen"/>wards which nothing could contribute more, than the frequent meeting together of its Members, to ac<g ref="char:EOLhyphen"/>knowledge <hi>one hope of their calling, one Lord, one Faith, one Baptiſm, one God and Father of all, above all, through all, and in them all;</hi> and this is moſt effectually ac<g ref="char:EOLhyphen"/>knowledged, by our being <hi>all partakers of that one bread;</hi> for thus, as St. <hi>Paul</hi> teacheth, <hi>we being many are one bread and one Body.</hi> And likewiſe their meet<g ref="char:EOLhyphen"/>ing to commemorate the nobleſt inſtance of Love that ever appeared in the world, and conſequently the nobleſt Example for Chriſtians to follow, the no<g ref="char:EOLhyphen"/>bleſt motive to excite them to <hi>love one another.</hi>
+               </p>
+               <p>Thirdly, The good and edification of every parti<g ref="char:EOLhyphen"/>cular Chriſtian, and this end will appear to be admi<g ref="char:EOLhyphen"/>rably well ſerv'd this way, if we will give our ſelves leave to reflect a little on the benefits, which every Chriſtian is made partaker of by receiving this Holy Supper. And</p>
+               <p>Firſt, If we conſider this Holy Supper only as a <hi>Commemorative Sign,</hi> or ſign to put us in mind of Chriſts dying for us, yet even thus it will prove of vaſt advantage to us. For this will naturally tend to inflame our Love and exalt our Gratitude towards him, to confirm our Faith and ſtrengthen our Hope in him, and to fix and ſtabliſh our purpoſes of obe<g ref="char:EOLhyphen"/>dience to him. All this, I ſay, will be the natural reſult even of a bare contemplation or remembrance, of Chriſts having freely given up himſelf to death, even the death of the Croſs for us, and of his having thereby procured <hi>remiſſion of all our Sins,</hi> and a pro<g ref="char:EOLhyphen"/>miſe of Eternal Life and Happineſs, to all thoſe that <hi>obey</hi> him. But</p>
+               <p>Secondly, If we conſider it, as it is <hi>the Communion of the Body and Blood of Chriſt,</hi> that is, as it is to all faith<g ref="char:EOLhyphen"/>ful Chriſtians an actual participation of the benefits of Chriſt's death and paſſion, <hi>viz.</hi> of <hi>remiſſion of ſins, of the hope of eternal happineſs upon our obedience, and of the
+<pb n="11" facs="tcp:152927:6"/> grace of the holy Spirit to teach and enable us to obey,</hi> we ſhall be abundantly convinc'd of the advantage and benefit of it to us. By this means we have the ſame ſtrength and nouriſhment convey'd unto our Souls, which the outward Symbols Bread and Wine convey to our Bodies. <hi>We are made one with Chriſt, and Chriſt with us,</hi> and nothing but our own wilful diſobedience ſhall be ever able to part us more from him.</p>
+               <p>This is a true and faithful account of the Lord's Supper, which I think may be fairly ſumm'd up in theſe few and plain words. <hi>It is a Foederal Feaſt, or Feaſt of Covenant between God and man, inſtituted by Chriſt himſelf, and perpetually to be obſerv'd by all Chriſtians, where by partaking of Bread and Wine, in commemoration of Christ's Body given, and his Blood ſhed for them, they on their part acknowledge Christ for their Saviour and Redeem<g ref="char:EOLhyphen"/>er, Lord and Maſter; and God on his part, grants and con<g ref="char:EOLhyphen"/>firms to them, under the Symbols of Bread and Wine, the Body and Blood of his Son Christ Jeſus,</hi> that is, <hi>all the bleſſed effects of his Body broken and his Blood ſhed,</hi> viz. <hi>pardon of past ſins, promiſe of eternal happineſs upon future obedience of the Goſpel, and Grace to direct and enable them to perform this obedience.</hi> And this Feaſt is therefore call'd the <hi>Lord's Supper,</hi> becauſe it was inſtituted by our Lord at <hi>Supper time.</hi>
+               </p>
+               <p>From what has been ſaid, I think our obligations to receive this Holy Supper do abundantly appear. For</p>
+               <p>Firſt, We have here a plain command ſo to do, <hi>Do this in nomembrance of me,</hi> a command, as has been al<g ref="char:EOLhyphen"/>ready ſhewn you, which reacheth to all Chriſtians, and will oblige them, even to the end of the world. So that it is meer trifling with God, our Saviour and the World, to call our ſelves Chriſtians, and yet live in a wilful neglect of this plain command of Chriſt. <hi>Why call ye me Lord, Lord,</hi> ſaith our Saviour, <hi>and do not the things which I ſay?</hi> to what purpoſe do ye in words acknowledge me to be your Maſter, and yet when I call upon you to <hi>do this,</hi> plainly declare by your actions that you do not regard me? Better had it been for you that you had never taken my ſacred
+<pb n="12" facs="tcp:152927:7"/> name into your mouths, than that you ſhould thus abuſe and blaſpheme it. <hi>Be not deceived, I will not be mock'd; but I ſay unto you, it ſhall be more tolerable for Tyre and Sydon, at the day of Judgment than for you.</hi>
+               </p>
+               <p>Secondly, This command of our Saviour is attended with a multitude of Circumſtances, which do every one of them very much add to its force and obli<g ref="char:EOLhyphen"/>gation, and render the neglect of it more and more unpardonable. For</p>
+               <p>Firſt, <hi>It was his dying Command;</hi> that very ſame night, in which he inſtituted this Holy Supper, was he betrayed into the hands of the <hi>Jews,</hi> in order to be mock'd and derided, buffeted and ſcourged, and at laſt ſacrificed upon the Croſs for our ſakes. And can our dying Saviour require any thing of us, that we will not do? Can he ſpeak, and ſhall not his <hi>laſt</hi> words be minded by us? What anſwer, do ye think ye ſhould have given him, had ye heard him ſpeak<g ref="char:EOLhyphen"/>ing in this manner to you: <q rend="inline">My deareſt Children who I love ſo well, whoſe miſeries I am ſo deeply concern'd for, whoſe ſins I am ſo very deſirous to get a pardon for, that behold I am juſt now going to dye an ignominious death upon the Croſs for you that ſo, by the Sacrifice of my ſelf, I may take away all your ſins, and make you heirs of eternal Glory: My beſt and deareſt Children, dearer to me than my life itſelf. Hearken to the laſt words of your dying Saviour. I have but one thing more to re<g ref="char:EOLhyphen"/>quire of you. Oh let not that be neglected by you! Let me intreat you, with my laſt breath, that breath which I am contented to part with for your ſakes, to preſerve this my laſt Commandment inviolable I would ye not all have ſaid, Diſtruſt us not, O bleſſed Maſter we beſeech thee, command whatſoever thou ſeeſt good, and we will cheerfully obey, tho it be even to death itſelf. Our hearts are affected with the ſenſe of thy approaching kindneſs, that we can no more forget thy dying words, than we can refuſe to accept thy dying Love.</q>
+               </p>
+               <p>Secondly, <hi>It is a very eaſy Command,</hi> take Bread and Wine, bleſs them, and then eat and drink of them
+<pb n="13" facs="tcp:152927:7"/> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n remembrance of me, is a Commanndment as little <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rievous as our hearts could wiſh for; ſo that they <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ho neglect it, have nothing to ſay in excuſe for <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hemſelves, but ſeem to ſin purely for ſinnings ſake, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd this is the very height of wickedneſs. Bleſſed God, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat ever the Devil ſhould ſo far get poſſeſſion of mens <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earts, as to keep them from doing their duty, even <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>here there is no hardſhip in doing it. How can <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe men in reaſon expect that our Saviour ſhould <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e at any pains to ſave them, who are reſolv'd they <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ill be at none to obey him? Or rather, how can <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey not expect to be made the unhappy inſtances of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is wrathful diſpleaſure, who will not do even this <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mall thing to pleaſe him?</p>
+               <p>Thirdly, <hi>This is a Command, in which our obedience to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hriſt is more peculiarly try'd.</hi> In moſt other of his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommands, there are other obligations, beſides thoſe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f his Authority; as in all moral duties, obligations <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom nature, reaſon, or the like; ſo that it is not <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery eaſy to tell, by mens complyance with theſe, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hether they are true Servants of Chriſt or no; be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auſe they may, nay, and it is plain they ſometimes <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o, comply with theſe Duties, upon principles of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ature or reaſon, when yet they have no true ſence <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f their obligation from Chriſts authority. But, in the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uty before us, there being no obligation, but Chriſts <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſitive inſtitution, they who perform it as they <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught, muſt certainly act upon a true Chriſtian prin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iple, <hi>viz.</hi> a ſenſe of the obedience they owe to Chriſts <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommands. This then being a plain Teſt of our <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing true Chriſtians, it is certainly our duty to let <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll the world ſee, by our compliance with it, that <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e are ſo; and that the obligation of Chriſts Autho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity, when alone, is abundantly ſufficient to com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>and us, whitherſoever it pleaſeth.</p>
+               <p>Fourthly, <hi>This command is a more than ordinary Tryal of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur gratitude and Love to Chriſt,</hi> becauſe it commands <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>othing, but what we are bound even by the meer <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aws of Love and Gratitude, to be moſt ready to per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orm. For ſuppoſing Chriſt had had no authority to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommand us any thing; but had only requeſted of
+<pb n="14" facs="tcp:152927:8"/> us, that we would perpetually obſerve this his Sup<g ref="char:EOLhyphen"/>per in commemoration of him; yet conſidering wha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great, unſpeakably great things, he had done for us<g ref="char:punc">▪</g> we ſhould have been moſt inexcuſable, if we ſhould not have anſwer'd this his requeſt. The Laws o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Love and Gratitude are founded upon reaſon, and therefore ought to have a powerful influence upon reaſonable creatures, and certainly all that Love and Gratitude can oblige us to, we muſt be obliged to in behalf of him, who has done more to engage our Love, and deſerve our thanks, than all the Friends that we ever had in the world put together. Baſe and ungrateful wretches then muſt we needs be, if when he only deſires any thing of us, we do not make haſt to fulfil his deſire; but moſt eſpecially baſe and ungrateful, if when he deſires of us only, that we would meet together now and then, to comme<g ref="char:EOLhyphen"/>morate all his kindneſs towards us, we refuſe to hear or regard him, as tho he were unworthy our re<g ref="char:EOLhyphen"/>membrance.</p>
+               <p>Fifthly, <hi>This is a command to do a thing vaſtly for our own good.</hi> So that we muſt be Fools as well as Re<g ref="char:EOLhyphen"/>bels, if we omit to do it. Of how much advantage the receiving the Lords Supper, is to every faithful Chriſtian you have already ſeen, and from thence may judge how much it is your intereſt to receive it: And certainly, where your duty and your intereſt are ſo cloſely link'd together, it muſt be a ſtrange Spirit of contradiction and rebellion, or at leaſt a ſtrange degree of careleſsneſs and ſupineneſs, that can make you forget or neglect your duty. You muſt have a mighty mind certainly to quarrel with our Saviour, who will rather forego your own inte<g ref="char:EOLhyphen"/>reſt, then obey his commands.</p>
+               <p>Sixthly, <hi>This is a command, in which the honour of God and our Saviour are in a very extraordinary manner concern'd,</hi> and which therefore we ought to be moſt particularly careful to obſerve. For ſince the Holy Supper was inſtituted on purpoſe for the ſolemn commemoration of the great loving kindneſs of God and our Saviour in Redeeming us, and for ſhowing forth to the
+<pb n="15" facs="tcp:152927:8"/> World their great Power, Wiſdom and Goodneſs, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Redemption of us, and likewiſe the new Title <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ey hereby acquired to our ſervice and obedience; <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e cannot poſſibly do any thing more for their ho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our, than to attend this ſolemn commemoration, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd join with our fellow Chriſtians in acknowledging <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Glory, ſervice and obedience to God, <hi>who hath <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>av'd us, not according to our works, but according to his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wn purpoſe and grace, and hath bought us with a price,</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd likewiſe to our Lord <hi>Jeſus Chriſt who was ſlain and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as redeemed us to God by his blood.</hi> And the refuſing to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o this looks as if we did not really believe Chriſtia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity; <hi>but counted the blood of the Covenant, wherewith we <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re ſanctified an unholy thing.</hi> And how high an affront <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his muſt needs be to God and our Saviour, your own <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earts will tell you.</p>
+               <p>Seventhly, <hi>This is a command which tends mightily to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rocure and promote love and unity amongſt Chriſtians,</hi> as has <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>een before prov'd; and upon that account, challen<g ref="char:EOLhyphen"/>geth a very particular regard and reſpect from us. Every member of a Society is in an extraordinary man<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er obliged to pay a moſt exact obedience to thoſe Laws, which do more immediately concern the well-<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing of that Society, of which he profeſſeth himſelf <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> member; and conſequently every Chriſtian muſt <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye under more than ordinary obligations to obey <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his command of Chriſt, concerning his Supper, be<g ref="char:EOLhyphen"/>cauſe the good of the Chriſtian Church in general is very much concerned in it. It was deſign'd, and is very fit to unite and bind the members of Chriſts Church cloſer and cloſer together, and ſo to ſtreng<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen the main body; and thoſe who will not joyn <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n this deſign plainly betray the truſt repos'd in them, and as far as they are able, defraud all their fellow-members of thoſe bleſſings, of love, peace, mutual <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riendſhip, <hi>&amp;c.</hi> which muſt have been the natural ef<g ref="char:EOLhyphen"/>fects of their obedience in this point.</p>
+               <p>Laſtly, <hi>This is a command, which we are often put in mind of.</hi> We hear of our obligations to it both from the Desk and from the Pulpit; we read of them in the Church Catechiſm, and have a ſenſible remem<g ref="char:EOLhyphen"/>brance
+<pb n="14" facs="tcp:152927:9"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:152927:9"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:152927:10"/> of them, every now and then, at the Com<g ref="char:EOLhyphen"/>munion Table. We are frequently exhorted, in<g ref="char:EOLhyphen"/>treated, and in the name of Chriſt commanded to at<g ref="char:EOLhyphen"/>tend his Holy Supper; we are told of the great danger of neglecting it, and both the mercies and terrors of the Lord are made uſe of to draw and compel us to it.</p>
+               <p>And now, if after all this, we ſtill continue obſti<g ref="char:EOLhyphen"/>nate and undutiful, what can we expect but a pu<g ref="char:EOLhyphen"/>niſhment anſwerable to our obſtinacy: a puniſhment that ſhall no more relent than we have done, but, be<g ref="char:EOLhyphen"/>ing deaf to all our prayers and crys for mercy, ſhall with the ſame continued torments prey upon us, and be to us the ſad remembrancers of our fatal ob<g ref="char:EOLhyphen"/>ſtinacy to all eternity.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <hi>Of Preparation for the Lord's Supper.</hi>
+               </head>
+               <p>IN diſcourſing on this head, it will be convenient, from the very beginning, to diſtinguiſh betwixt <hi>ne<g ref="char:EOLhyphen"/>ceſſary</hi> preparation, without which no man ought to come to the Lords Supper, and ſuch as is only <hi>expedi<g ref="char:EOLhyphen"/>ent</hi> or <hi>adviſeable</hi> under certain circumſtances; it being plain from experience that for want of this diſtincti<g ref="char:EOLhyphen"/>on, men have been ſtrangely confounded in their no<g ref="char:EOLhyphen"/>tions about this matter.</p>
+               <p>To the <hi>neceſſary</hi> preparation, no doubt thoſe words of St <hi>Paul</hi> refer'd, <hi>Corinth.</hi> 11.28. <hi>Let a man examine,</hi> try or prove <hi>himſelf, and ſo let him eat of that bread, and drink of that cup;</hi> becauſe this is laid down at large, as a general rule to all Chriſtians, and it is here plain<g ref="char:EOLhyphen"/>ly ſuppoſed that no man ought to <hi>to eat of that bread and drink of that cup,</hi> who has not firſt examined him<g ref="char:EOLhyphen"/>ſelf. Examined himſelf as to what? Our Church tells us in few words, <hi>whither he repents him truly of his for<g ref="char:EOLhyphen"/>mer ſins, ſtedfaſtly purpoſing to lead a new life; has a lively
+<pb n="17" facs="tcp:152927:10"/> faith in Gods mercy through Chriſt, with a thankful remem<g ref="char:EOLhyphen"/>brance of his death; and is in charity with all Men.</hi>
+               </p>
+               <p>In which words three things are propounded as ne<g ref="char:EOLhyphen"/>ceſſary qualifications for the worthy receiving the Lords Supper. Firſt a ſincere and compleat <hi>Repentance,</hi> which ſhall not only look backwards with unfeigned ſorrow for our ſins paſt, but likewiſe forward with ſtedfaſt purpoſes of leading a new life for the time to come. Secondly, <hi>a lively faith in God's mercy through Chriſt,</hi> ſuch a firm and hearty perſuaſion and aſſurance of God's having redeem'd us from <hi>ſin</hi> and <hi>death</hi> by the death of Chriſt, and of his having made him our Lord and Maſter, and promis'd eternal life to us up<g ref="char:EOLhyphen"/>on condition of our obedience to him, as ſhall work in us a readineſs of mind to ſerve and obey him in all things, and more eſpecially ſhall diſpoſe us to commemorate his death with the higheſt gratitude, and moſt affectionate Thankſgiving. Laſtly, An u<g ref="char:EOLhyphen"/>niverſal <hi>Love</hi> and <hi>Charity,</hi> which ſhall extend to all men, even our very enemies, and make us not only forgive all their treſpaſſes againſt us, but likewiſe <hi>bleſs</hi> them, <hi>pray</hi> for them, and, in one word, do them all the good we can.</p>
+               <p>Now that every of theſe is really a neceſſary qualifi<g ref="char:EOLhyphen"/>cation for the worthy receiving the Lords Supper, will moſt evidently appear by conſidering them a lit<g ref="char:EOLhyphen"/>tle apart. And</p>
+               <p>Firſt, as to <hi>Repentance,</hi> it is plain, even from reaſon, that without this we muſt needs be unfit to joyn in any of Gods <hi>Ordinances,</hi> it being downright Hypocriſie, and a meer mocking of God, to declare ourſelves his Servants by communicating in theſe outward Rites of his Religion, when yet at the ſame time we are not inwardly diſpoſed at all to ſerve him, in the moſt important parts of our duty, <hi>living Righteouſly, ſoberly and godlily in thi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> preſent world.</hi> And therefore we find the Scriptures <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nſtantly repreſenting God, as one that abhorreth and abominateth the ſervice of the wicked, and reſents their <hi>prayess</hi> and <hi>ſacrifices,</hi> their <hi>incenſe</hi> and <hi>ſolemn meeting</hi> as <hi>abomination</hi> and <hi>iniquity.</hi>
+               </p>
+               <pb n="18" facs="tcp:152927:11"/>
+               <p>Much leſs can a wicked man be fit to join in this holy Ordinance of the Lord's Supper; for the end of this being to lament and bewail thoſe ſins, which were the occaſion of our bleſſed Lord's death; and to rejoice in that victory, which our Lord by his death obtain'd over ſin; he muſt certainly be a very unfit man to do this, who ſtill taketh part with ſin, ſheweth a favour and liking to it, and inſtead of be<g ref="char:EOLhyphen"/>ing <hi>Servant to Christ,</hi> is indeed the <hi>Servant of ſin.</hi>
+               </p>
+               <p>Beſides, we know the Lord's Supper is a <hi>covenant<g ref="char:EOLhyphen"/>ing</hi> ordinance, wherein we are to engage our ſelves to the ſervice of Chriſt; and God upon ſuppoſition of ſuch our engagement, is to make over to us all the benefits of Chriſt's death and paſſion, <hi>remiſſion of Sins, Grace to enable us to live according to the Rules of the Goſpel, and eternal Salvation upon our ſo living.</hi> But now the wicked man is utterly unqualified for both parts of this Covenant; For how ſhall he engage himſelf to the ſervice of Chriſt, who is not reſolv'd to for<g ref="char:EOLhyphen"/>ſake his Sins? Or what Title can he poſſibly have to the benefits of Chriſt's death, who will not per<g ref="char:EOLhyphen"/>form that obedience, which is a neceſſary condition of his coming at them? ſo that ſuch a perſon can have nothing to do at the Lord's Supper: he is not concern'd in the buſineſs of it, and therefore, if he does come to it, muſt be look'd upon as an intruder, and one that purpoſely deſigneth to provoke and af<g ref="char:EOLhyphen"/>front God. <hi>Unto the wicked God ſaith, what haſt thou to do to declare my ſtatutes, or that thou ſhouldst take my Co<g ref="char:EOLhyphen"/>venant in thy mouth? ſeeing thou hatest to be reform'd and caſtest my words behind thee?</hi>
+               </p>
+               <p>Secondly, As to Faith: <hi>without this,</hi> the Scripture tells us, <hi>it is impoſſible to pleaſe God. For he that cometh to God,</hi> he that draweth near to him in any of his ordinances, <hi>must believe that he is, and that he is a rewarder of them that diligently ſeek him.</hi> God is not to be put off with outward profeſſions and pretences, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be worſhipp'd only with our <hi>Lips, while our hearts are far from him:</hi> but he is <hi>a God of the Heart, a ſearcher of our Reins, and a tryer of our most inward thoughts,</hi> and therefore it will be better for us not to worſhip him at all, than not
+<pb n="19" facs="tcp:152927:11"/> to worſhip him in earneſt; never to pretend, by any outward ſigns, to believe in him, than not to believe as we pretend.</p>
+               <p>And indeed can any thing poſſibly be more abſurd and ridiculous, as well as blaſphemous and provok<g ref="char:EOLhyphen"/>ing, than for thoſe to pretend to commemorate Chriſt's dying for us, who do not believe one tittle of it? For thoſe to acknowledge him the Saviour of the World, the Lord and Judge of it, <hi>who ſay in their hearts</hi> it is no ſuch thing? This is certainly either to queſtion God's Omniſcience, or his regard to ſince<g ref="char:EOLhyphen"/>rity, or elſe to defy his Power, and therefore ſure we cannot think this an acceptable ſervice to him.</p>
+               <p>Beſides, are not all the Bleſſings of the Goſpel, which we hope to have confirm'd to us in the Lord's Supper, promiſed to <hi>Believers</hi> only? or can we think that the ineſtimable benefits of Chriſt's death, are to be had at ſo cheap a rate, that there is no need either of believing any thing of them, or ſo much as being thankful for them? no certainly; <hi>the Goſpel is the power of God unto Salvation, unto every one that believeth,</hi> and to none elſe; to him that believeth with a lively Faith, <hi>(not a Faith without works,</hi> which St. <hi>James</hi> tells us, <hi>is dead) and aboundeth therein with thankſgiving.</hi> To what purpoſe then, but to aggravate his condemna<g ref="char:EOLhyphen"/>tion, ſhall that man dare to come to the Lord's Sup<g ref="char:EOLhyphen"/>per, in expectation of the Bleſſings of the Goſpel, who is ſo far from <hi>abounding in Faith with Thankſgiving,</hi> that he has neither <hi>Faith</hi> nor <hi>Thankſgiving.</hi>
+               </p>
+               <p>Laſtly, As to <hi>Charity,</hi> this is upon many accounts, a neceſſary qualification for our worthy receiving the Lord's Supper. For Firſt, It cannot be ſuppoſed that any man can be fit to commemorate the great Love and kindneſs of our bleſſed Lord in dying for us, who is not ſo far affected with it, as to endeavour all he can to tranſcribe and imitate it. How great things ſoever we may ſay in commendation of it, how much ſoever we may in words extol it, we ſhall not be accepted of God, it we in our Actions blaſ<g ref="char:EOLhyphen"/>pheme it. And it is in truth no leſs than to call our Saviour <hi>Fool</hi> in dying for us, when we were his Ene<g ref="char:EOLhyphen"/>mies;
+<pb n="20" facs="tcp:152927:12"/> to think that we are not obliged to <hi>love, for<g ref="char:EOLhyphen"/>give</hi> and <hi>help</hi> one another. Either his Love to us had no good grounds and reaſons for it, or if it had and we think ſo, we ought to ſhew that we do ſo, by letting the ſame grounds and reaſons influence our Love. Secondly, Without Charity one of the great ends of our meeting at the Lord's Supper will be de<g ref="char:EOLhyphen"/>feated, which is to propagate Love and Charity a<g ref="char:EOLhyphen"/>mongſt Chriſtians. Thirdly, Without this the Scrip<g ref="char:EOLhyphen"/>ture aſſures us, all our Services, all our Gifts and Graces will ſtand for nothing in the ſight of God. <hi>Though we ſpeak with the Tongues of Men and of Angels, and have not Charity, we are become as ſounding Braſs or a tink<g ref="char:EOLhyphen"/>ling Cymbal. And though we have the Gift of Prophecy, and underſtand all Mysteries and all Knowledge, and though we have all Faith, ſo that we could remove Mountains, and have not Charity, we are nothing.</hi> Fourthly, Without this we are uncapable of receiving any benefit from the Lord's Supper; for remiſſion of ſins, which muſt firſt be obtain'd, before we can hope for any other mercy from God, is promiſed only to the charitable. <hi>If ye forgive men their Treſpaſſes, your heavenly Father will alſo forgive you: but if you forgive not men their Treſpaſſes, neither will your Father forgive your Treſpaſſes.</hi> Laſtly, Our bleſſed Lord has commanded us not to dare to bring any ill will or enmity along with us, when we come to his Supper; nay farther, if we are come to it, and find that we have unawares brought any, to go a<g ref="char:EOLhyphen"/>way and lay them aſide, before we preſume to par<g ref="char:EOLhyphen"/>take of it. <hi>If thou bring thy Gift to the Altar, and there remembrest that thy Brother hath ought againſt thee: Leave there thy Gift before the Altar, and go thy way, first be reconciled to thy Brother, and then come and offer thy Gift.</hi>
+               </p>
+               <p>Thus much is, I think, ſufficient to prove that <hi>Re<g ref="char:EOLhyphen"/>pentance, Faith</hi> and <hi>Charity,</hi> are neceſſary qualifications for the worthy receiving of the Lord's Supper. That they are the only neceſſary ones is very plain, becauſe, they are all that is neceſſary to Salvation, all that is neceſſary to give a Man a Title to all the Promiſes and Bleſſings of the Goſpel; and certainly more can<g ref="char:EOLhyphen"/>not
+<pb n="21" facs="tcp:152927:12"/> be neceſſary to fit a Man for the Lord's Supper, than to fit him for Heaven; to fit him for the ſeal of the Promiſes than for the Promiſes themſelves.</p>
+               <p>But here I ſhall be asked; If this be all the prepa<g ref="char:EOLhyphen"/>ration neceſſary, how comes it to paſs that we have ſo many Sermons preached, and Books written about ſetting apart ſome time, ſuppoſe a week, for private Devotion and Examination, every time before we receive the Lords Supper? How comes it to paſs that many very good men if they happen to be diſturbed by any worldly buſineſs, ſo that they cannot attend this their weekly preparation, look upon themſelves as unfit, for that time, to attend the holy Communi<g ref="char:EOLhyphen"/>on? To this I anſwer.</p>
+               <p>Firſt, that I told you before that there was a pre<g ref="char:EOLhyphen"/>paration, tho not abſolutely neceſſary, yet, under ſome circumſtances, expedient and adviſeable. Where men have time and other opportunities, it is very commendable in them to do all they can, by reading the Scriptures and other good books, and by prayer. and other exerciſes of Devotion, to excite and encourage, to actuate and quicken all their graces and virtues, that ſo they may appear, in their beſt Robes at their Lord's Table. This is ſuch a piece of reſpect to God and our Saviour, as cannot fail of being well accepted of them. But then</p>
+               <p>Secondly, We muſt be careful not to carry this matter too far, and make other <hi>neceſſary</hi> conditions of <hi>communicating worthily,</hi> beſides what God has made. He has no where commanded us to ſay a certain number of prayers, to faſt ſo many days, and to ask our ſelves juſt ſo many queſtions before we commu<g ref="char:EOLhyphen"/>nicate, nor doth the nature of our duty require any ſuch thing of us. And if our <hi>Spiritual Paſtors</hi> have put us upon theſe things, they have done it as a matter of prudence and good advice, and not of neceſſity and abſolute Duty; at leaſt, if they have not, they have gone beyond their commiſſion, and departed from the Doctrine of the Church, which ſolemnly invites all ſuch, <hi>as do truly and earneſtly repent them of their ſins, and are in love and charity with their neighbours,
+<pb n="22" facs="tcp:152927:13"/> and intend to lead a new life, following the commandment<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of God, and walking from henceforth in his holy ways, t0 draw near with Faith, and take this Holy Sacrament to their comfort;</hi> without asking them whether they have made any farther preparation.</p>
+               <p>Laſtly, As for thoſe who refrain from coming to the Lords Supper, becauſe they have been hin<g ref="char:EOLhyphen"/>derd frem making this particular preparation: let them be never ſo good and never ſo wiſe in other things, <hi>yet in this I praiſe them not.</hi> For certainly it is an argument of a weak mind, and not of <hi>a ſound Judgment,</hi> for men to make to themſelves duties, which God and Reaſon have not made: it is <hi>Superſtition,</hi> and not Religion, for men to place their duty in little niceties and punctilio's, and to overlook the <hi>weightier matters</hi> of the Law. And yet this they certainly do, who excuſe themſelves from the great and important duty of communicating, purely upon account of their not having perform'd ſome little forms and ex<g ref="char:EOLhyphen"/>erciſes, which nothing but their own fancies and other mens imprudent diſcourſes and examples have made duties. Beſides, they do by this means debar themſelves from the great and inexpreſſible benefits of communicating; they omit a moſt happy occaſion of glorifying God and their Saviour, and doing good to their brethren and themſelves, only to humour groundleſs ſcruples, and unreaſonable curioſities.</p>
+               <p>Nay, even themſelves at other times condemn themſelves; they can readily come to other Ordi<g ref="char:EOLhyphen"/>nances, as praying, hearing the word, <hi>&amp;c.</hi> without any ſuch preparation as this; and yet this would be every whit as commendable here, as for the Holy Sacrament. We may <hi>hear</hi> and <hi>pray,</hi> as well as <hi>receive</hi> unworthily, and yet this they ſeem not to be much concern'd about; which plainly ſhows that they are guided in this matter more by example and fancy, than Reaſon and Religion.</p>
+               <p>The ſumm of all is this. We cannot poſſibly, by any preparation make ourſelves too pure and devout Gueſts for the Lords Table; and therefore, when we have opportunity, it will highly become us, by
+<pb n="23" facs="tcp:152927:13"/> prayer and other ſuch means, to trim and deck our ſelves for it. But ſtill we muſt always remember that the great and only neceſſary preparation is <hi>Re<g ref="char:EOLhyphen"/>pentance, Faith</hi> and <hi>Charity:</hi> a pure innocent mind, a firm and ſtedfaſt faith in Chriſt, an ardent and im<g ref="char:EOLhyphen"/>partial affection to our Brethren. Without theſe, all other preparations are vain and of no account, and with theſe we are fit gueſts to receive the Lords Sup<g ref="char:EOLhyphen"/>per where-ever we meet it, tho never ſo unexpected<g ref="char:EOLhyphen"/>ly, and without the leaſt warning. He who is poſ<g ref="char:EOLhyphen"/>ſeſs'd of theſe Divine Graces, is always fit, without any further preparation, for Death and Heaven, and then undoubtedly fit for any means and ordinances of Religion whatſoever.</p>
+               <p>But here I ſhall be ask'd how a man can know, hat he is thus prepar'd? I anſwer his own mind muſt tell him, and, if he doth but conſult it honeſtly and with ſincerity it will. No body but himſelf can inform him, whether he be in temper and diſpo<g ref="char:EOLhyphen"/>ſition, in firm purpoſe and reſolution to quit all his ſins, without the leaſt reſerve, and to endeavour to the utmoſt of his power to live for the future, as be<g ref="char:EOLhyphen"/>cometh the Goſpel of Chriſt. No body can tell him, what he believeth, what he unfeignedly acknow<g ref="char:EOLhyphen"/>ledgeth to be true, but himſelf; nor can any other be able to inform him, whether he heartily forgiveth all men their treſpaſſes, and is ready upon all oc<g ref="char:EOLhyphen"/>caſions to do them the moſt good he can. No man knoweth the heart of a man but himſelf; and he may know it, if he be faithful to himſelf. Otherwiſe we are in vain call'd upon in Scripture to <hi>examine ourſelves,</hi> to <hi>try our thoughts</hi> and conſult our <hi>Conſciences.</hi>
+               </p>
+               <p>Well, but you have formerly examin'd your ſelf, and thought your ſelf rightly diſpos'd in all theſe points; but you found by your after-behaviour, that you deceiv'd your ſelf, and therefore how ſhall you truſt your ſelf again? I anſwer, the more ſenſi<g ref="char:EOLhyphen"/>ble you are of any miſtake you have formerly made in this matter, the more heedful and watchful over your ſelf ought you to be for the future. It may be your heart was in right temper before, when you
+<pb n="24" facs="tcp:152927:14"/> thought it ſo, but you let it ſlide back afterwards; therefore, <hi>though you think you stand now, take heed leſt you fall.</hi> It may be you were careleſs and remiſs in examining your ſelf before, and then it is no wonder that you found your ſelf miſtaken; therefore be ſtrict and ſevere with thy ſelf now, that thou may'ſt be miſtaken no more.</p>
+               <p>But may you venture to go to the Sacrament, im<g ref="char:EOLhyphen"/>mediately upon your converſion from your ſins? Muſt you not ſtay ſome conſiderable time to try, by your Actions, whether your purpoſes of amendment are ſincere or no? Yes, if you cannot truſt your ſelf, you had beſt ſo to do; if you are in doubt of it you muſt not dare to mock God. But if after a thorough ſearch and examination of your ſelf, you are fully perſwaded, that you are really beginning a new life, and that you ſhall perſevere in it, I ſee no reaſon then why you ſhould not come; <hi>come to him that refreſheth ſuch as are weary and heavy laden;</hi> come to him who having <hi>wrought in thee to will, according to his good purpoſes,</hi> will infallibly, if it be not thy own fault, work in thee to do likewiſe, and ſo finiſh the good work, which he has happily and graciouſly be<g ref="char:EOLhyphen"/>gan in thee.</p>
+               <p>We read in the <hi>Acts</hi> of the Apoſtles, that the new Converts to Chriſtianity, without any time of tryal, were immediately admitted to the Lord's Supper; for ſo we are told <hi>Acts</hi> 2. <hi>that all,</hi> the whole three thouſand new Converts there mention'd, immediately after their converſion continued in <hi>breaking of Bread,</hi> that is, in the Communion of the Lord's Supper. And therefore I can ſee no reaſon, why a man that really thinks a true change of mind wrought in him, ſhould not preſently, upon his aſſurance of ſuch a change, from an honeſt and impartial examination of himſelf, hope that he is a fit gueſt for our Lords Table. Eſpecially conſidering how kindly the pro<g ref="char:EOLhyphen"/>digal Son in the Goſpel is receiv'd and treated by his Father, even immediately upon his return.</p>
+               <p>I ſhall add no more, but that I moſt earneſtly be<g ref="char:EOLhyphen"/>ſeech men, to be very faithful to themſelves in this
+<pb n="25" facs="tcp:152927:14"/> weighty buſineſs of ſelf examination. They are the only perſons that can ſuffer by making a falſe judg<g ref="char:EOLhyphen"/>ment of themſelves, and therefore it highly ſtands them in ſtead, <hi>ſo to judge themſelves, that they be not judged of the Lord; ſo to ſearch and examine their own con<g ref="char:EOLhyphen"/>ſciences (and that not lightly, and after the manner of diſ<g ref="char:EOLhyphen"/>ſemblers with God; but ſo) that they may come holy and clean to ſuch a heavenly Feaſt, in the marriage garment re<g ref="char:EOLhyphen"/>quired by God in the holy Scripture, and be received as wor<g ref="char:EOLhyphen"/>thy partakers of that holy Table.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Of frequency of Communicating.</hi>
+               </head>
+               <p>I Shall not here detain you with a long account, how the Primitive Chriſtians communicated at at firſt twice a day, then daily for a conſiderable time, and at length never ſeldomer than once a week. The ſtate of the Church while in its Infancy, and under perſecution, required then a more frequent performance of this Duty, for the ſtrengthning and comforting of its members, and for the propagation of the Faith, than now, when it is well grown, and generally ſpread, and has gotten helps and advan<g ref="char:EOLhyphen"/>tages from ſecular intereſt and power. And therefore the example of the Primitive Chriſtians in this point, cir<g ref="char:EOLhyphen"/>cumſtances having much varied between their times and ours, cannot be an exact Rule to us. However, thus much we may very fairly infer from it, that we ought to be frequent in this Duty, tho not ſo frequent as they were.</p>
+               <p>But that which it principally concerns a private Chriſtian to know, as the caſe ſtands now, is how often he ought to partake of the Lord's Supper, when adminiſtred <hi>in the Pariſh where he reſides.</hi> I ſay <hi>in the Pa<g ref="char:EOLhyphen"/>riſh where he reſides,</hi> becauſe certainly private Chriſtians are not bound to look further; theſe being the places
+<pb n="26" facs="tcp:152927:15"/> in which the Church has commanded them to attend the Ordinances of Religion, and to expect the admi<g ref="char:EOLhyphen"/>niſtration of them.</p>
+               <p>And the anſwer to this is very plain and eaſie: <hi>That we ought not to omit any opportunity, ſo offered to us, of par<g ref="char:EOLhyphen"/>taking of the Lord's Supper.</hi> For, conſidering how much our partaking of it is for the honour of God and our Saviour, for the credit of our Religion, the good of the Chriſtian Society, of which we profeſs our ſelves Members, and our own particular intereſt and advantage; I cannot ſee how we can anſwer it, either to God, our Saviour, our Brethren or our ſelves, if we at any time neglect to partake of it. Can we doubt whether it will not be highly diſplea<g ref="char:EOLhyphen"/>ſing to God, if when he calls us together to give thanks and praiſe to him, in a moſt ſolemn manner, for his abundant mercies in Chriſt Jeſus, we at any time unthankfully refuſe to come? Do we think that our Bleſſed Saviour can take it well at our hands, if when he, by his Miniſters, invites us to commemo<g ref="char:EOLhyphen"/>rate his Love in dying for us, we at any time turn our backs upon him, as thoſe who think him not worthy our remembrance? Are we afraid that we ſhall give too much countenance to our Religion, if we always appear upon this occaſion; or that the Church will grow too ſtrong, by our thus often be<g ref="char:EOLhyphen"/>coming <hi>one bread and one body?</hi> Or do we ſuſpect that we ſhall be too much gainers by our conſtant com<g ref="char:EOLhyphen"/>municating in the bleſſed effects of the body and blood of Chriſt. Methinks I am aſhamed to ask ſuch que<g ref="char:EOLhyphen"/>ſtions as theſe. Oh! with what Joy ought we to run to our Lord's Table, when ever we behold it ſpread for us? How ought the ſight of the heavenly Food, there prepared for us, to tranſport and delight us? How much more eagerly ought we to embrace every opportunity of having the pardon of our ſins con<g ref="char:EOLhyphen"/>firmed, and the promiſes of Grace and everlaſting Life renewed to us, than of heaping up Riches, Ho<g ref="char:EOLhyphen"/>nours, or any other worldly good? and yet we are ſure to be careful enough to let ſlip none of theſe.</p>
+               <pb n="27" facs="tcp:152927:15"/>
+               <p>But perhaps you will ſay, certainly there are ſome<g ref="char:EOLhyphen"/>times, when a man may be deſpenſed with from com<g ref="char:EOLhyphen"/>municating, ſome reaſons which will excuſe his ab<g ref="char:EOLhyphen"/>ſence; and every time of ſtaying from the Lord's Table is not ſure to be looked upon as a ſin of Omiſ<g ref="char:EOLhyphen"/>ſion. I anſwer, that the excuſes which will avail in this caſe are very few. That which is commonly made, of want of time for particular preparation, I have already ſhewed to be inſufficient in the foregoing Chapter: And I know of none that will hold good but theſe three.</p>
+               <p>Firſt, In ſome Pariſhes the number of Communi<g ref="char:EOLhyphen"/>cants is ſo vaſtly great, that they cannot poſſibly communicate all at one time, at leaſt not with any tolerable conveniency; and in ſuch a caſe, a good man not only may, but ought to give way and make room for others, who have a right to communicate as well as he. But then we muſt be very careful that when we do abſent our ſelves upon this account, there be real ground and reaſon for it, and that we may be ſure of this, we ſhall do well to conſult our Miniſter about it, who is the moſt competent Judge in this matter.</p>
+               <p>Secondly, It may ſometimes ſo happen, that a man, juſt before the time when he ſhould receive the Lords Supper, by ſome ſudden and ſurprizing occaſion, may be drawn into ſome groſs and enormous Sin, and not have time enough between that and the Ad<g ref="char:EOLhyphen"/>miniſtration of the Sacrament, to recollect and ex<g ref="char:EOLhyphen"/>amine himſelf, to try whether he be truly ſorrow<g ref="char:EOLhyphen"/>ful for this his fault, and do ſincerely deteſt and re<g ref="char:EOLhyphen"/>pent of it. And if ſo, he ought certainly for that time to ſtay away, and make his peace with God, and to make himſelf ſure that he has a right to the benefits of Chriſts Death and Paſſion, before he pre<g ref="char:EOLhyphen"/>ſumeth to come to the Communion of them.</p>
+               <p>Laſtly, Whatever will excuſe a man from coming to Church, as works of Neceſſity or Charity, being ſick and in diſtreſs our ſelves, or attending upon ſuch as are ſo, and need our help, <hi>&amp;c.</hi> will, by parity of reaſon excuſe us from coming to the Lord's Supper.
+<pb n="28" facs="tcp:152927:16"/> But he who comes to Church, and yet at the ſame time neglects the Lord's Supper, to which he is there invited, without either of the two forementioned rea<g ref="char:EOLhyphen"/>ſons, is inexcuſable. And upon this account, I ſup<g ref="char:EOLhyphen"/>poſe it was that the Canons Apoſtolical and the Synod of <hi>Antioch</hi> threaten every one of the Faithful with excommunication, who come to Church to hear the Holy Scriptures, but ſtay not to participate of the Holy Supper.</p>
+               <p>But it may be farther urged, doth not the Law of our Land it ſelf, which obligeth us to communicate three times a year only, ſuppoſe this to be ſuffi<g ref="char:EOLhyphen"/>cient?</p>
+               <p>I anſwer, Firſt, that the Law of the Land plain<g ref="char:EOLhyphen"/>ly ſuppoſeth it very good and commendable to do it oftener, becauſe it ſaith, we ſhall receive it <hi>three times at the leaſt.</hi>
+               </p>
+               <p>Secondly, If what has been ſaid above, concern<g ref="char:EOLhyphen"/>ing the reaſons of our omitting no opportunity of communicating, be true; this is enough to oblige us without any farther conſideration.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Objections againſt Communicating anſwer'd.</hi>
+               </head>
+               <p>HOping that ſome men at leaſt are ſincere in their excuſes, which they make for not com<g ref="char:EOLhyphen"/>ing to the Lord's Supper, how light and tri<g ref="char:EOLhyphen"/>fling ſoever the excuſes themſelves may be, I ſhall not grudge my time and pains in conſidering them di<g ref="char:EOLhyphen"/>ſtinctly, and giving anſwers to them. And Firſt, The moſt common excuſe which men make in this caſe is that they are <hi>unworthy,</hi> and therefore dare not com<g ref="char:EOLhyphen"/>municate; always bearing in mind thoſe terrible words of St. <hi>Paul.</hi> 1 <hi>Corinth.</hi> 11.29. <hi>He that eateth and drinketh unworthily ea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eth and drinketh damnation to him<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi> Now in anſwer to this, I deſire men to conſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> three things.</p>
+               <pb n="29" facs="tcp:152927:16"/>
+               <p>Firſt, what it is they mean, when they ſay they are <hi>unworthy.</hi> For, if they mean any thing to the purpoſe, they muſt mean either that they are not ſor<g ref="char:EOLhyphen"/>ry for their ſins, and fully reſolv'd to forſake them, or that they do not ſtedfaſtly believe all the Articles of the Chriſtian Faith, or laſtly, that they are not in Charity with the world, ready to forgive and do good to all mankind; for theſe are the only things which can render a man <hi>unworthy</hi> to receive the Lords Sup<g ref="char:EOLhyphen"/>per. And yet, I verily believe, that the far greateſt number of thoſe, who call themſelves <hi>unworthy,</hi> would think themſelves very much injured, if any of theſe things ſhould be ſaid of them. Well then, ſuch men give themſelves their own anſwer, they are not re<g ref="char:EOLhyphen"/>ally <hi>unworthy,</hi> and therefore they may ſafely come.</p>
+               <p>But, ſay they, we are incumbred mightily with worldly buſineſs: we do not find in our ſelves a zealous and a warm <hi>Faith and Love</hi> of God, our Sa<g ref="char:EOLhyphen"/>viour and Religion; we have conteſts, diſputes and law-ſuits with many of our Neighbours, and theſe things we are afraid render us <hi>unworthy.</hi> By no means: if we purſue our worldly buſineſs honeſtly and fairly, without letting it incroach upon the bu<g ref="char:EOLhyphen"/>ſineſs of Religion, by ſwallowing up all our time, and leaving none or very little for the worſhip of God and ſervice of our Neighbours, we not only do what is innocent, but commendable, and our duty. If we are <hi>rooted</hi> and <hi>grounded</hi> in <hi>Faith,</hi> ſo that in the general courſe of our lives, <hi>we have our converſation, as becometh the Goſpel of Chriſt,</hi> and <hi>keep</hi> all his <hi>Com<g ref="char:EOLhyphen"/>mandments;</hi> this is a ſufficient proof of our <hi>Faith</hi> and <hi>Love</hi> to God, our Saviour and Religion, altho we never have any hot fits and ſudden ſtarts, raptures and extaſies. Laſtly, If we are contending with our Neighbours for nothing, but what we ſincerely think our right, if we take a fair and legal way of righting our ſelves, and proſecute our ſuits, without the leaſt malice or ill will to our Neighbours perſon, there is no harm in all this; none of theſe things are any bar to our communicating. But</p>
+               <pb n="30" facs="tcp:152927:17"/>
+               <p>Secondly, If you are really <hi>unworthy,</hi> whoſe fault is it that you are ſo? May you not have, or at leaſt might you not have had for asking, ſuch a meaſure of Divine Grace, as would ſufficiently enable you to attain all thoſe qualifications which are neceſſary to render a man a <hi>worthy</hi> Communicant, and why then did you not, or why now do you not, accept and make uſe of it? Do you think to make your own fault your excuſe? Or will you plead in your behalf that you are not worthy, becauſe you will not be ſo? No certainly, all that you can do in this caſe, is to make what haſte you can poſſibly, by immedi<g ref="char:EOLhyphen"/>ately embracing and complying with the offers of Gods Grace to become worthy; that ſo there may lye no fault at your door, either on one ſide or the other, but that you may both communicate and communicate worthily.</p>
+               <p>Laſtly, as to thoſe terrible words of St <hi>Paul, He that eateth and drinketh unworthily, eateth and drinketh damnation to himſelf;</hi> I might obſerve, that the word which we here render <hi>damnation,</hi> ſignifieth no more than <hi>Judgment,</hi> and probably was deſign'd in this place only to denote temporal Judgments; but I ſhall not inſiſt upon this. For whatever the meaning of theſe words may be, it is certain, that the un<g ref="char:EOLhyphen"/>worthy receiving the Lords Supper, till repented of, is a damnable ſin; as being a down-right impudent mocking of God and Chriſt, by pretending ourſelves their Servants, and ſolemnly vowing all holy obedi<g ref="char:EOLhyphen"/>ence to them, when yet in our hearts, we at the ſame time, mean no ſuch thing. But what then? Shall we therefore ſtay away from the Communion, and by ſo doing wilfully break a plain Command<g ref="char:EOLhyphen"/>ment of our Saviour, and thereby become guilty of a damnable ſin? This is to take a certain damnation for fear of one, which we may avoid if we pleaſe. No certainly, the juſter conſequence, in this caſe, is that we ought to uſe our utmoſt endeavours to qua<g ref="char:EOLhyphen"/>lify our ſelves for communicating worthily, that ſo we may have no reaſon to fear the dreadful puniſh<g ref="char:EOLhyphen"/>ment of communicating <hi>unworthily.</hi>
+               </p>
+               <pb n="31" facs="tcp:152927:17"/>
+               <p>Secondly, Others are afraid of communicating, leſt they ſhould fall into ſin afterward, and this they think would be unpardonable; and for this reaſon ſome men have thought it wiſdom to abſtain from communicating till the time of their death, when they are beyond all danger of ſinning more.</p>
+               <p>Now I readily grant that it is a very great aggra<g ref="char:EOLhyphen"/>vation of any ſin, that it is committed after receiv<g ref="char:EOLhyphen"/>ing the holy Communion, becauſe this makes it a ſin againſt new Vows and Promiſes, which we there made, a ſin after greater meaſures of Grace and Di<g ref="char:EOLhyphen"/>vine aſſiſtance, which we there received, than we had before, and conſequently a more inexcuſable ſin, than it would have been before; but that it ſhould be unpardonable is what can never be proved. For</p>
+               <p>Firſt, It is certain from our Saviours own words, <hi>that all manner of ſin and blaſphemy ſhall be forgiven unto men, but the blaſphemy againſt the Holy Ghoſt ſhall not be forgiven unto men.</hi> So that unleſs ſinning after Com<g ref="char:EOLhyphen"/>municating be the ſin againſt the Holy Ghoſt, which I think was never yet pretended, we need not fear its being forgiven us, upon our ſincere repentance for it, and endeavouring to be more careful for the future. But</p>
+               <p>Secondly, Did not St <hi>Peter,</hi> after receiving the Communion, nay, and immediately after too, commit ſin, and that too one of the greateſt ſins that he could poſſibly be guilty of, <hi>the denying his Lord and Maſter,</hi> and yet no body doubts but that upon his ſorrow and repentance, this was entirely forgiven him. And ought not this example to be a great en<g ref="char:EOLhyphen"/>couragement to all ſuch, as are ſo unhappy to ſin as he did, upon repentance like his, to hope for a par<g ref="char:EOLhyphen"/>don like his too? However,</p>
+               <p>Laſtly, The conſideration of this aggravating cir<g ref="char:EOLhyphen"/>cumſtance of our ſins, ought to make us extremely cautious and fearful of ſinning after the Communi<g ref="char:EOLhyphen"/>on; for no wiſe man will venture himſelf into an eminent danger, meerly becauſe there is a poſſibility of his eſcaping out of it.</p>
+               <pb n="32" facs="tcp:152927:18"/>
+               <p>Thirdly, Others think to excuſe themſelves by ſay<g ref="char:EOLhyphen"/>ing that they have already, perhaps often too, been partakers of the Lord's Supper, and been ſo far from receiving thoſe benefits from it, which we pretend are to be had there, that they have not found any benefit at all by it, and therefore they cannot conceive, to what purpoſe they ſhould give themſelves the trouble of coming to it any more. To which I anſwer,</p>
+               <p>Firſt, That generally ſpeaking, this is not true; it being plain from experience that moſt men, even the worſt of Men too, gain this ſenſible advantage by communicating, that for ſome time both before and after, they are more ſerious, more thoughtful, and keep themſelves within ſtricter bounds of Tempe<g ref="char:EOLhyphen"/>rance and Sobriety, than they us'd to do at other times. And this is a very conſiderable advantage, and has very often prov'd the happy occaſion of mens looking into and examining their own lives, of their finding fault with, and becoming ſick of themſelves, and of their ſeeking a remedy for their ſickneſs, in a thorough Repentance and Reformation.</p>
+               <p>Secondly, If men do not find theſe benefits which we aſſure them of, in the <hi>Communion of the Body and Blood of Chriſt,</hi> it muſt be wholly their own fault, for God is <hi>faithful who hath promiſed,</hi> and will in<g ref="char:EOLhyphen"/>fallibly make good his part of the Covenant, to all thoſe who are careful to make good theirs. So that this objection, ſo far as it is true, is an objection on<g ref="char:EOLhyphen"/>ly againſt our ſelves; it can be no reaſon for our ab<g ref="char:EOLhyphen"/>ſenting from the Holy Communion, but it may and ought to be a powerful reaſon for our taking care to come ſo prepared, that we may be fit to receive the bleſſings there offered by God to us.</p>
+               <p>Thirdly, Men are apt to judge of the effects of their receiving the Communion, before (according to the nature of things) they can poſſibly appear. God's Grace, tho' it works in a ſupernatural manner, yet it attends the natural motion of mens own en<g ref="char:EOLhyphen"/>deavours, works and keeps equal pace along with them. And therefore our reaſon will tell us that it muſt take up ſome time to watch and obſerve the
+<pb n="33" facs="tcp:152927:18"/> effects of it. The converſion of a Sinner, and per<g ref="char:EOLhyphen"/>fection of a Saint, are not things to be wrought in a moment, there are a great many little ſteps and de<g ref="char:EOLhyphen"/>grees, to be taken and gain'd, which are almoſt in<g ref="char:EOLhyphen"/>ſenſible, at leaſt do not become remarkable, till they have been often added one to another; And there<g ref="char:EOLhyphen"/>fore we muſt wait with patience, and keep on doing our own buſineſs, and then in time we need not fear but the works of the Lord will be made perfect in us. We can no more argue that we do not grow in Grace, becauſe we do not ſee every ſmall increaſe of ſuch our growth, than that we do not grow in bodily ſtature, for the ſame reaſon. But,</p>
+               <p>Laſtly, Suppoſing no benefits at all were to accrue to us, from our receiving the Lord's Supper; What then? Are we to obey none of our Saviour's Com<g ref="char:EOLhyphen"/>mandments, but ſuch as we are to be gainers by? Is it not enough that he has plainly enjoin'd us to do this? Are not his Power and Authority ſufficient grounds and motives for our obedience? Moreover, are we never to miniſter to the glory and honour of God and our Saviour, but where we can at the ſame time miniſter to our own profits too? This methinks is ſtrange Doctrine, eſpecially in a Chriſtian's mouth, who promiſed at his Baptiſm, without reſerve, to keep all God's Commandments, and to walk in the ſame unto his lives end.</p>
+               <p>Fourthly, Another Objection comes from thoſe men, who do not care to communicate with ill men, who they ſee conſtantly flock to the Lords Table: much leſs to receive the communion from the hands of an ill Miniſter, as it may ſometimes happen. But this I hope to ſhew to be rather an affected niceneſs and ſqueamiſhneſs, than well-grounded Wiſdom and Religion. For,</p>
+               <p>Firſt, as to Lay Communicants, ſuppoſing them to be ill men, which yet Charity, eſpecially ſuch Charity as a man ought to bring with him to the Communion, commandeth you to be well aſſured of, before you ſuppoſe it; yet what is that to you? are you bound to anſwer for their unworthineſs in re<g ref="char:EOLhyphen"/>ceiving,
+<pb n="34" facs="tcp:152927:19"/> or for the ſins they ſhall be guilty of after? are you afraid that they are infectious, and that you ſhall catch their ſins of them, only by looking on them, or kneeling by them? if not, what means this fooliſh nicety, theſe groundleſs ſcruples? would it not become you better when you meet ſuch men, at the Lords Table, to hope that they are now be<g ref="char:EOLhyphen"/>ginning to repent and amend, and to wiſh and pray that it may be ſo? ought you not rather to embrace and welcom them with joy thither, as the Angels do a repenting ſinner, and to lay hold of this occaſion of encouraging them to love thy ſelf, and other good men, as that which may afterwards prove a likely means of making them love that Religion, to which thou and they owe all their goodneſs. This certain<g ref="char:EOLhyphen"/>ly would be the propereſt behaviour at this feaſt of Love: this Charity of thine to them would neareſt reſemble that of thy Lord to thee.</p>
+               <p>But you will ſay, perhaps, that the thoughts of that extreme danger, which they incur by coming unworthily to the Lords Table, and their cold and indifferent behaviour there, diſcompoſe thy thought and deaden thy devotions. Be it ſo; yet this is no thy fault but theirs, ſo far as they are the neceſſary occaſion of it. But ſurely it will be no hard matter for thee to divert thy thoughts from them at ſuch a time, and by meditation and private prayer to apply them to the buſineſs thou art about. Nay, the very thoughts of the great danger of communicating un<g ref="char:EOLhyphen"/>worthily and indecently, which you ſay theſe me<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bring into your minds, are very proper thoughts a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that time. Add to this, that our Lord himſelf gave th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Communion to <hi>Judas,</hi> as bad a man, as we can wel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuppoſe, and the reſt of the Apoſtles made no obje<g ref="char:EOLunhyphen"/>ction againſt his communicating; and who art tho<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then that pretendeſt to be wiſer than our Lord an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and his Apoſtles?</p>
+               <p>Secondly, As to an ill <hi>Miniſter.</hi> this objectio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> might be of ſome force, if the virtue and efficacy o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Communion did at all depend upon the goodneſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or badneſs of him who adminiſtreth it; but this i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:152927:19"/> doth not. It is enough that he be lawfully ordain'd and impowered to miniſter to us in Holy things; farther conſidered as to his goodneſs or badneſs, there is no more in the caſe betwixt him and us, than in the caſe betwixt us and any other Lay Brother, and this, I hope, has been ſufficiently conſider'd.</p>
+               <p>Fifthly, It is objected by ſome that they cannot come to the Lords Supper, as adminiſtred by the Church of <hi>England,</hi> becauſe they cannot comply with the poſture of kneeling, in which that enjoyns them to receive it. But why can they not comply?</p>
+               <p>Is it becauſe the poſture is in itſelf unlawful? that they will be hardly ſo fooliſh as to ſay; it being ac<g ref="char:EOLhyphen"/>knowledged by all Mankind that poſtures are indif<g ref="char:EOLhyphen"/>ferent things, and the practice of the beſt men that ever lived, nay, even of our Lord himſelf, having plainly prov'd that there is no unlawfulneſs in this of kneeling.</p>
+               <p>It is becauſe the ſupreme Authority of our Nation has commanded it (for the Rubricks of our Common Prayer, are all Act of Parliament, and by theſe we are commanded to kneel at the Communion: a thing which I wiſh ſom men would ſeriouſly lay to heart) this methinks muſt be ſtrange perverſeneſs, to refuſe to obey our Governours in indifferent things, the on<g ref="char:EOLhyphen"/>ly things in which our obedience to them can be try'd.</p>
+               <p>Is it becauſe this was not the poſture in which our Lord inſtituted this Holy Supper? How do they know that? for the Scriptures are ſilent in that matter; but ſuppoſing it was not, do theſe men think us obliged to obſerve all the circumſtances, which our Lord then made uſe of? If not all, why more particularly this of his poſture? If all; why then do they themſelves vary ſo much from many of them as they do? Why do not they make ready the Lords Supper in an upper Room, why not at the ſame time of the day which he did?</p>
+               <p>Is it becauſe kneeling is no Table geſture? I an<g ref="char:EOLhyphen"/>ſwer, that the nature of the Lords Supper, doth not require that it ſhould be ſo; if it did, it would
+<pb n="36" facs="tcp:152927:20"/> likewiſe, for the ſame reaſon, require other circum<g ref="char:EOLunhyphen"/>ſtances proper to a Feaſt and a Table, which yet the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who make this objection will by no means allow o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo that in this they give themſelves their anſwer.</p>
+               <p>Is it becauſe, kneeling is not a proper poſture<g ref="char:punc">▪</g> not ſuitable to the buſineſs of communicating? Cer<g ref="char:EOLunhyphen"/>tainly the moſt proper of any whatſoever; as ſervin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beſt amongſt us, to expreſs that humility and thank<g ref="char:EOLunhyphen"/>fulneſs of mind, with which we receive and comme<g ref="char:EOLunhyphen"/>morate, as we ought to do, the benefits of Chriſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> death and paſſion. Or,</p>
+               <p>Laſtly, is it becauſe, this poſture is abuſed to ver<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ill purpoſes by Idolaters, more eſpecially by the Pa<g ref="char:EOLunhyphen"/>piſts in this very inſtance of communicating? I an<g ref="char:EOLunhyphen"/>ſwer, that the abuſe of an indifferent thing, can b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no argument againſt the lawful uſe of it, more par<g ref="char:EOLunhyphen"/>ticularly the uſe of it, to very good and commenda<g ref="char:EOLunhyphen"/>ble ends.</p>
+               <p>Sixthly and Laſtly, there is one other Objection<g ref="char:punc">▪</g> which tho very ſeldom mentioned, yet I fear lyet<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at the bottom of many Mens Hearts, and that is gi<g ref="char:EOLunhyphen"/>ving away money at the Communion. But here i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is to be conſidered, that altho this is a very good ex<g ref="char:EOLunhyphen"/>preſſion of that charity, which we are indiſpenſabl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bound to bring with us thither, yet this is no neceſ<g ref="char:EOLunhyphen"/>ſary condition of, or qualification for, our worth<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> receiving. Thoſe who have nothing or very little t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> give have equal right to the Communion, and will b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> made as welcome at it by our Saviour, as they wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> give never ſo largely out of their abundance. L<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> not any man then neglect this happy opportunity o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doing honour to God and his Saviour, and unſpeak<g ref="char:EOLunhyphen"/>able good to himſelf and his Brethren, purely be<g ref="char:EOLunhyphen"/>cauſe he cannot make ſuch a ſhow with his Mone<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as other men. <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him give chearfully what he <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> able, and he need not fear but that our Saviour, wh<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſo much commended the Widow's Charity in h<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Mite,</hi> will likewiſe accept and approve his? Or if <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> has nothing elſe to offer to God, yet let him off<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> him a penitent faithful and charitable heart; and th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> he will find dear and precious in his ſight.</p>
+               <pb n="37" facs="tcp:152927:20"/>
+               <p>And thus I have anſwer'd, I hope fully and clear<g ref="char:EOLhyphen"/>ly, all thoſe objections which men ordinarily make againſt communicating; at leaſt all ſuch as occur to my mind at preſent. If there be any others that have ſcaped me, I ſhall be very thankful to thoſe, who will be ſo kind as to inform me of them, and moſt readily give them their due weight and conſidera<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div type="devotions">
+               <pb n="38" facs="tcp:152927:21"/>
+               <div type="prayers">
+                  <head>Three Prayers to be us'd by ſuch as have leiſure, every Morning and Evening with their other Devoti<g ref="char:EOLhyphen"/>ons, for a week before they receive the Lord's Supper.</head>
+                  <div type="prayer">
+                     <head>For Repentance.</head>
+                     <p>O Moſt Holy Lord God, who art of pu<g ref="char:EOLhyphen"/>rer Eyes than to behold Iniquity; and haſt more eſpecially required, that thoſe who compaſs thine Altar, ſhould waſh their Hands in Innocency: Grant me, I beſeech thee, unfeigned Repentance for my paſt Sins, a moſt deep and hearty ſorrow for them, and moſt firm and ſtedfaſt purpoſes and reſolutions to forſake them; and do thou by thy Grace ſo aſſiſt and ſtrengthen theſe my reſolutions, that they may become effectual, for the bringing forth fruit unto holineſs, ſo that in the end I may have ever<g ref="char:EOLhyphen"/>laſting Life. Thou only, O Lord, art able to work in me both to will and to do, ac<g ref="char:EOLhyphen"/>cording as I ought. Cleanſe me therefore, I moſt humbly pray thee, from all filthineſs, both of fleſh and ſpirit, and enable me ſo to perfect holineſs in thy fear, that I may be a fit Gueſt for thy Son's Table, and like<g ref="char:EOLhyphen"/>wiſe meet to be partaker of that Inheritance of the Saints in light, which thou, in thine infinite mercy, haſt promis'd to all ſuch as
+<pb n="39" facs="tcp:152927:21"/> faithfully ſerve and pleaſe thee, through thy dear Son, and our alone Saviour and Redeemer Jeſus Chriſt our Lord.</p>
+                     <closer>Amen.</closer>
+                  </div>
+                  <div type="prayer">
+                     <head>For Faith.</head>
+                     <p>O Moſt gracious and ever merciful Lord, who haſt promiſed to all them that be<g ref="char:EOLhyphen"/>lieve in thy Son Jeſus, everlaſting life, and haſt inſtituted and ordained holy Myſteries, as pledges and ſeals of theſe thy promiſes: Give me, I moſt earneſtly beg of thee, ſuch a ſure and lively faith in him, as may en<g ref="char:EOLhyphen"/>title me to become a worthy receiver of theſe pledges, and heir of theſe promiſes. I believe, O Lord, help thou my unbelief; I believe that the bleſſed Jeſus laid down his life for me, and acknowledge with all poſſi<g ref="char:EOLhyphen"/>ble thankfulneſs, his inexpreſſible kindneſs in ſo doing; I believe that he gave himſelf for me and all Mankind, that he might re<g ref="char:EOLhyphen"/>deem us from all iniquity, and purifie unto himſelf a peculiar people, zealous of good works; therefore will I I endeavour to manifeſt my Faith by my works; I believe that there is none other name under Heaven, given among Men, whereby they muſt be ſaved, but the name of the Lord Jeſus; therefore in his name only I implore thy mercy, increaſe of Faith here, and of Glory hereafter.</p>
+                     <closer>Amen.</closer>
+                  </div>
+                  <div type="prayer">
+                     <pb n="40" facs="tcp:152927:22"/>
+                     <head>For Charity.</head>
+                     <p>O Lord, who haſt taught us that all our doings without Charity are nothing worth; ſend thy Holy Ghoſt, and pour into my heart that moſt excellent gift of Charity, the very bond of peace and of all Virtues, without which whoſoever liveth is counted dead before thee. More eſpecially now, when I am going to commemorate the unſpeakable love of my bleſſed Saviour in dying for me, let me not be deſtitute of love towards my Brethren. O let my rea<g ref="char:EOLhyphen"/>dineſs to forgive others their treſpaſſes fit me for thy forgiveneſs of mine; let me not be an enemy to any man, leſt I be thy ene<g ref="char:EOLhyphen"/>my too, but give me that Charity, which covereth a multitude of Sins, that Charity, by which all Men may know me to be Chriſts Diſciple, which ſhall diſpoſe me to be of a meek, patient, long ſuffering, for<g ref="char:EOLhyphen"/>giving temper like him, and to do good to all men as he did; that Charity which ſhall never fail, but ſhall go along with us into, and make us fit Inhabitants for that City of Love, the new <hi>Jeruſalem.</hi> Grant this, O merciful Father, for the ſake of thy Son Chriſt Jeſus, through whoſe love alone we are encouraged to preſent theſe our requeſts to thee.</p>
+                     <closer>Amen.</closer>
+                  </div>
+               </div>
+               <div type="prayer">
+                  <pb n="41" facs="tcp:152927:22"/>
+                  <head>A Prayer to be ſaid in the morning, before we communicate, after our uſual Prayers.</head>
+                  <p>O Moſt gracious and ever merciful Lord God, who art always wont to give more than we either deſire or deſerve, ac<g ref="char:EOLhyphen"/>cept, I beſeech thee, my moſt humble and hearty thanks for thy great mercy in bring<g ref="char:EOLhyphen"/>ing me to the light of this day, and thereby giving me an opportunity of meeting my dear Redeemer at his holy Table; of teſtify<g ref="char:EOLhyphen"/>ing my love and gratitude to him, and of communicating in all the bleſſed effects of his love towards me; of renewing to him my Baptiſmal Vow of Faith and Obedience, and of receiving from him freſh confirmations of the benefits made over to me in my Baptiſm, even remiſſion of ſins, grace and eternal life. O that I may be careful duly to improve this happy opportunity now before me! that I may eat and drink ſo worthily, as to eat and drink my own Salvation: that my ſins which are many and great, more eſpecially all ſuch as have been committed knowingly and wil<g ref="char:EOLhyphen"/>fully, <hi>(ſuch as — Here mention thoſe wilful ſins, if there are any ſuch, which thou knoweſt thy ſelf to have been guilty of)</hi> may be forgiven me; and that henceforward, whither I live, I may live unto thee, or whither I dye, I may dye unto thee, that ſo, living or dying, I may be ever thine.</p>
+                  <pb n="42" facs="tcp:152927:23"/>
+                  <p>And the ſame mercies, which I beg for my ſelf, I beg likewiſe for all my fellow Chri<g ref="char:EOLhyphen"/>ſtians; more particularly thoſe who ſhall this day, any where, partake in the Commu<g ref="char:EOLhyphen"/>nion of the Body and Blood of Chriſt. O let not one of their precious Souls periſh, who ſeem to be ſo near to the Kingdom of Hea<g ref="char:EOLhyphen"/>ven; but do thou, by thy Grace ſo aſſiſt and direct, ſtrengthen and ſupport them, now and evermore, in doing thy will, and work<g ref="char:EOLhyphen"/>ing out their own Salvation, that in the end they may obtain everlaſting life, through Jeſus Chriſt our Lord.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="prayer">
+                  <head>A ſhort Prayer to be ſaid after that which we com<g ref="char:EOLhyphen"/>monly ſay at our firſt coming into the Church.</head>
+                  <p>GRant, O bleſſed Jeſu, that the nearer I draw to thy Table, the nearer I may likewiſe draw to thee in purity of heart and affections, in ſtrength and livelineſs of Faith, in fervency and extenſiveneſs of Charity<g ref="char:punc">▪</g> That ſo, being of the ſame mind which was in thee, and thinking, believing and doing<g ref="char:punc">▪</g> as becometh thy Diſciple, I may be meet to be partaker of thoſe pledges of thy favour<g ref="char:punc">▪</g> which thou now offereſt at thy holy Table to all thy faithful Servants, and of thoſe Joys in another world, which thou in thy mercy haſt prepared for them.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="prayer">
+                  <pb n="43" facs="tcp:152927:23"/>
+                  <head>Juſt before we receive.</head>
+                  <p>HEar thoſe Prayers, O Lord, which have been offer'd up by thy Congregation, and for the ſake of thy well beloved Son Je<g ref="char:EOLhyphen"/>ſus Chriſt, ſuffer us to draw nigh unto thee, and to hope for thy mercy. In his name alone it is that I, a moſt vile wretch and miſerable Sinner, am bold to call thee Father, and to intreat thy favour and forgiveneſs. O let his merits anſwer for my unworthineſs, let his death preſerve me from dying, let his Body and Blood preſerve my Body and Soul unto everlaſting life.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="prayer">
+                  <head>Immediately after receiving the Bread.</head>
+                  <p>O Merciful Lord, Grant I beſeech thee, that by virtue of thy dear Son's Body given for me, and repreſented to me by this Bread, I may become acceptable in thy ſight, obtain thy pardon and peace, thy grace and aſſiſtance, thy everlaſting happineſs and glo<g ref="char:EOLhyphen"/>ry. And do thou, O Lord, ſo fill my heart with thankfulneſs for the ineſtimable bene<g ref="char:EOLhyphen"/>fits of my Saviour's death and paſſion, that I may be ready to do any thing, even to lay down my life for him; and that loving no<g ref="char:EOLhyphen"/>thing more than him, he may vouchſafe to think me worthy of him, and to crown me with eternal Glory in his Kingdom.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="prayer">
+                  <pb n="44" facs="tcp:152927:24"/>
+                  <head>Immediately after receiving the Wine.</head>
+                  <p>I Thank thee, from the bottom of my heart, O gracious God, that thou haſt redeemed us to thy ſelf by the blood of thy Son; O let me evermore bear in mind thy inexpreſſible kindneſs and condeſcenſion in ſo doing; and ſhew forth my ſenſe of them, in a ſincere, univerſal and conſtant obedience to thee. That ſo the Lord Jeſus may be indeed the Author of Salvation to me, and I being waſh'd and cleans'd from all my ſins in his Blood, may appear pure and ſpotleſs before thee, and be admitted to partake of thoſe rivers of pleaſure, which are at thy right hand for evermore.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="prayer">
+                  <head>When you return to your Seat.</head>
+                  <p>GRant, O bleſſed Lord, that I and all thoſe who meet together this day un<g ref="char:EOLhyphen"/>der pretence of commemorating thy death, may ſo effectually remember it, as for ever after to hate thoſe ſins, which were the oc<g ref="char:EOLhyphen"/>caſion of it; ſo effectually remember it, as conſtantly to love and adore thee for it; ſo effectually remember it, as to uſe our utmoſt endeavours to imitate and tranſcribe it; ſo effectually remember it, as to remember that we are thine, bought with the price of thy Blood, and are therefore bound to ſerve thee, with our Bodies and Spirits, which are thine.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="prayer">
+                  <pb n="45" facs="tcp:152927:24"/>
+                  <head>A Prayer to be uſed the evening after communica<g ref="char:EOLhyphen"/>ting, with our other Devotions.</head>
+                  <p>ACcept, O Bleſſed Lord, accept my un<g ref="char:EOLhyphen"/>feign'd thanks, for thy great mercy in admitting me this day to the ſweet and com<g ref="char:EOLhyphen"/>fortable communion of the Body and Blood of Chriſt, and for all thoſe benefits which I there receiv'd. Enable me for the future to live worthy of them, to make good all the promiſes and vows I there made, and to continue ſtedfaſt in that Repentance, Faith, and Charity, which I there profeſs'd. Mar<g ref="char:EOLhyphen"/>vellous was thy love in ſending thy Son to dye for us, and particularly great has it been towards me, in that it has caus'd me to be born in a Chriſtian Country, where I had early and eaſy opportunities of knowing the Chriſtian Religion, and that too in its utmoſt purity and ſimplicity, and have long been protected and maintain'd in the free and undiſturb'd exerciſe of it. Oh that my behaviour may prove anſwerable to theſe mercies? that I may uſe all theſe happy opportunities, which many other poor Souls want, as one that is truly ſenſible of the ad<g ref="char:EOLhyphen"/>vantage of them; that I may grow in Grace, and the knowledge of Chriſt Jeſus, and a<g ref="char:EOLhyphen"/>bound in every good word and work, to the praiſe and glory of God. I know, O Lord, that if we ſin wilfully, after that we have
+<pb n="46" facs="tcp:152927:25"/> receiv'd the knowledge of the truth, there remaineth no more ſacrifice for ſins, but a certain looking for of judgment, and fiery indignation. O let me conſtantly carry this in my thoughts, and ſeriouſly reflect upon it, that ſo I may not be of them who draw back unto perdition, but of them that believe to the ſaving of the Soul.</p>
+                  <p>I pray likewiſe, that all my fellow Chri<g ref="char:EOLhyphen"/>ſtians may ſincerely perform that covenant, which they have this day made to thee; that they may ceaſe to do evil and learn to do well, that they may be ſtrong in the faith of Chriſt, and love one another, as he hath lov'd them; that ſo thy honour may be effectually promoted, the Salvation of all men farther'd, thy Sons Kingdom en<g ref="char:EOLhyphen"/>larg'd, and his coming haſtened, to the in<g ref="char:EOLhyphen"/>expreſſible comfort and eternal joy of all thoſe, who having ſincerely obey'd the Goſpel of Chriſt here, ſhall evermore re<g ref="char:EOLhyphen"/>joyce in the bleſſed fruits and rewards of their Obedience in Heaven. Grant this, O merciful Father, for the ſake of thy well-beloved Son Chriſt Jeſus, to whom, with thy ſelf, and thy Eternally bleſſed Spirit, three perſons but one God, be all Honour and Glory, Might, Majeſty and Dominion, from this time, henceforth and for ever<g ref="char:EOLhyphen"/>more.</p>
+                  <closer>Amen.</closer>
+               </div>
+            </div>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:152927:25"/>
+            <head>Books Printed for <hi>Thomas Speed,</hi> over againſt <hi>Jonathan's</hi> Coffee-Houſe in <hi>Exchange Alley</hi> in <hi>Cornhil. 1700.</hi>
+            </head>
+            <p>THE Duties of the Cloſet: Being an earneſt Ex<g ref="char:EOLhyphen"/>hortation to private Devotion. Part 1. the ſecond Edition. Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The Great Duty of Communicating Explain'd and Enforc'd; the Objections againſt it anſwered, and the neceſſary Preparation for it ſtated. With Devo<g ref="char:EOLhyphen"/>tions to be us'd Before, At, and After the Lord's Sup<g ref="char:EOLhyphen"/>per. By the Author of <hi>The Duties of the Cloſet</hi> Price 3 <hi>d.</hi> but 20 <hi>s.</hi> a hundred to thoſe who give them away.</p>
+            <p>A Sermon Preach'd before the King at <hi>White-hall, November</hi> 5. 1696. On <hi>Job, Ch.</hi> 5. <hi>Ver.</hi> 12. The ſe<g ref="char:EOLhyphen"/>cond Edition. Price 6 <hi>d.</hi>
+            </p>
+            <p>A Sermon Preach'd before the Right Honourable the Lord-Mayor and Aldermen, at <hi>Guild-Hall</hi> Chap<g ref="char:EOLhyphen"/>pel, On <hi>Sunday</hi> the 11th of <hi>April,</hi> 1697. On <hi>Prov.</hi> 14. <hi>ver.</hi> 34. Price 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Chriſtianity beſt propagated by the good lives of Chriſti<g ref="char:EOLhyphen"/>ans.</hi> A Sermon preach'd before the Gentlemen Edu<g ref="char:EOLhyphen"/>cated at <hi>Merchant Taylors</hi> School, at St <hi>Mary le Bow, January</hi> 16, 1699. On <hi>Matth.</hi> 5. <hi>ver.</hi> 16. Price 6 <hi>d.</hi>
+            </p>
+            <p>Theſe by Sir <hi>William Dawes,</hi> Baronet, D. D. and Chaplain in Ordinary to His Majeſty.</p>
+            <p>A Sermon at the Funeral of Mrs. <hi>Elizabeth Fiſher,</hi> Siſter to the Honourable Sir <hi>Will. Dawes.</hi> Bar. D. D. And Wife to the Reverend Dr. <hi>Peter Fiſher.</hi> Preach'd at <hi>Bennington</hi> in <hi>Hertfordſhire, June</hi> the 2d. 1698. By <hi>William Milner,</hi> Vicar of <hi>Shephal</hi> in <hi>Hertfordſhire.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:152927:26"/>
+            <p>Of the Happineſs of the Saints in Heaven: A Sermon preach'd before the Queen at <hi>White-Hall, October</hi> 12<g ref="char:punc">▪</g> 1690. By <hi>Will. Beveridge,</hi> D. D. Rector of St. <hi>Peter<g ref="char:punc">▪</g> Cornhil.</hi> The fourth Edition. Price 6 <hi>d.</hi>
+            </p>
+            <p>Converſation in Heaven, in two parts. Part I<g ref="char:punc">▪</g> Being Devotions conſiſting of <hi>Meditations</hi> and <hi>Prayer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> on ſeveral Conſiderable Subjects in practical Divini<g ref="char:EOLhyphen"/>ty. Written for the raiſing the decay'd Spirit o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Piety. Part II. Being Sacramental Devotions; conſiſting of <hi>Meditations</hi> and <hi>Prayers</hi> Preparatory unto a <hi>worthy Receiving</hi> of the <hi>Holy Communion:</hi> As alſo, <hi>Meditation<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Prayers</hi> ſuited to every Part of Adminiſtring and Receiving it. By <hi>Lawrence Smith,</hi> L. L. D. Recto<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>South-Warmborough</hi> in <hi>Hampſhire.</hi> The third Edition<g ref="char:punc">▪</g> Corrected, with Additions.</p>
+            <p>A Sermon at the Funeral of the Reverend Mr <hi>Thomas Grey,</hi> late Vicar of <hi>Deadham</hi> in <hi>Eſſex,</hi> preach'd in the Pariſh Church of <hi>Deadham, Feb.</hi> 2d, 92. With a ſhort account of his life, by <hi>Joſeph Powel.</hi> M. A. Rector of St <hi>Mary</hi> on the <hi>Wall</hi> in <hi>Colcheſter,</hi> quarto, Price 6 <hi>d.</hi>
+            </p>
+            <p>The death of Good <hi>Joſiah</hi> Lamented. A Sermon, occaſioned by the death of our late moſt Gracious Soveraign Queen <hi>Mary</hi> of ever bleſſed memory, preached at <hi>Balſham</hi> in <hi>Cambridgſhire, March</hi> 3d, 95, By <hi>Joſeph Powel,</hi> M. A. Rector of <hi>Balſham,</hi> Quarto<g ref="char:punc">▪</g> Price 6 <hi>d.</hi>
+            </p>
+            <p>The neceſſity of a preſent Repentance. A Sermon preach'd before the Lord Mayor and Court of Alder<g ref="char:EOLhyphen"/>men <hi>March</hi> 10. By <hi>Will. Bramſton,</hi> Chaplain in Ordi<g ref="char:EOLhyphen"/>nary to His Majeſty, Quarto, Price 6 <hi>d.</hi>
+            </p>
+            <p>Religion the only Happineſs: A Poem, in a Letter to a Friend. Quarto. Price 6 <hi>d.</hi>
+            </p>
+            <p>Poems on ſeveral Divine Subjects, and other occaſi<g ref="char:EOLhyphen"/>ons. Written by a young Lady. 80, Price 2 <hi>s.</hi>
+            </p>
+            <p>All ſorts of Bibles, Teſtaments, Common Prayers<g ref="char:punc">▪</g> Singing Pſalms, and moſt ſorts of Engliſh Books; as alſo Blank Receipts for the Collectors of the King<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Taxes, and Trophy Tax, are ſold by <hi>Thomas Speed.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
